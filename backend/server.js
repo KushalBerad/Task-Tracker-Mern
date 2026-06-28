@@ -16,7 +16,7 @@ app.use(cors());
 app.use(express.json());
 
 // routes
-app.use("/api/tasks", require("./routes/taskRoutes"));
+app.use("/api/tasks", require("./routes/taskroutes"));
 
 const PORT = process.env.PORT || 5000;
 
