@@ -8,9 +8,11 @@ This application allows users to create, manage, update, filter and delete tasks
 
 ## Live Demo
 
-Frontend Deployment: (Add after deployment)
+Frontend:
+https://task-tracker-mern-blond.vercel.app/
 
-Backend Deployment: (Add after deployment)
+Backend:
+https://task-tracker-mern-4pr7.onrender.com
 
 ---
 
