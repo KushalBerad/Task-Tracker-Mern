@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-    baseURL: "https://task-tracker-mern.onrender.com/api/tasks"
+    baseURL: "https://task-tracker-mern-4pr7.onrender.com/api/tasks"
 });
 
 // get tasks
