@@ -15,6 +15,10 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+app.get("/", (req, res) => {
+    res.send("Task Tracker Backend API Running");
+});
+
 // routes
 app.use("/api/tasks", require("./routes/taskroutes"));
 
